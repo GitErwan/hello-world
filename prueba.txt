@@ -1,6 +1,11 @@
+<<<<<<< HEAD
 sssesto es una prueba para git
 aaa
-
+putocalvo
 
 eesta modificiaciones comit con certificado gpg
 joder calvo
+=======
+esto es una prueba para git
+ea
+>>>>>>> 88f715f220acc57343521cee2d623702482544f1
